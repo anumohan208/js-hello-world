@@ -4,9 +4,21 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello World");
+console.log("Hello,World!");
+//console.log"Hello World";
+//console.log(Hello World);
+//console.log(Hello World");
+//console.log("Hello World);
+console.log('Hello World');
+console.log("Hello World")
+console.log(364);
+console.log(364+6);
+console.log("Welcome","Hello World");
+console.log("Welcome"+"\n"+"Hello World");
+console.log('"Nevermore"');
+console.log("Number of Days in a week:"+7);
 
-/*  
+/* 
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
